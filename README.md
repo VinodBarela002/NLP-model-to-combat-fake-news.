@@ -3,8 +3,6 @@
 Problem Statement
 To build an NLP model to combat fake news/contents menace using Embeddings and RNN
 
-Data:
-https://www.kaggle.com/datasets/ssismasterchief/machine-hack-fake-news-content-detection
 
 Use only Train.csv - 10240 rows x 3 columns (includes Labels Columns as Target)
 
