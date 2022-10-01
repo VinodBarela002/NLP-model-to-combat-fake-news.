@@ -2,20 +2,29 @@
 
 Problem Statement
 To build an NLP model to combat fake news/contents menace using Embeddings and RNN
+
 Data:
 https://www.kaggle.com/datasets/ssismasterchief/machine-hack-fake-news-content-detection
+
 Use only Train.csv - 10240 rows x 3 columns (includes Labels Columns as Target)
+
 Variable Description:
 Text - Raw content from social media/ new platforms
 Text_Tag - Different types of content tags
 Labels - Represents various classes of Labels
+
 ● Half-True - 2
+
 ● False - 1
+
 ● Mostly-True - 3
+
 ● True - 5
+
 ● Barely-True - 0
+
 ● Not-Known - 4
-Publish your final work solution in this Kaggle dataset.
+
 Task:
 1. Read train.csv in pandas.
 2. Calculate the distribution of labels.
